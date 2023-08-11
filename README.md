@@ -68,7 +68,11 @@ The iNotebook-backend project is licensed under the [MIT License](LICENSE). Feel
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [urvashikshatriya9@gmail.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [urvashikshatriya9@gmail.com](mailto:urvashikshatriya9@gmail.com).
 
----
+----
 
+<div style="display: flex;">
+  <img src="./static/screenshot2023-08-11-121610.png" alt="Screenshot 1" style="width: 50%; margin-right: 10px;">
+  <img src="./static/screenshot2023-08-11-121730.png" alt="Screenshot 2" style="width: 50%;">
+</div>
