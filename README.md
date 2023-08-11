@@ -73,6 +73,6 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 ----
 
 <div style="display: flex;">
-  <img src="./static/screenshot2023-08-11-121610.png" alt="Screenshot 1" style="width: 50%; margin-right: 10px;">
-  <img src="./static/screenshot2023-08-11-121730.png" alt="Screenshot 2" style="width: 50%;">
+  <img src="./static/screenshot2023-08-11-121610.png" alt="Screenshot 1" style="margin-right: 10px;">
+  <img src="./static/screenshot2023-08-11-121730.png" alt="Screenshot 2">
 </div>
